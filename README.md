@@ -17,7 +17,6 @@ PROCEDURE:
 
 IMPROVISATION : 
 There is a bit of synchronization problem among the devices causing the game to be a little slow in ones pc compared to another due to 
-unity deterministic engine which is processor based causing differences in gameplay between a faster and a slower processor system and hence 
-hardware similarity is preferred.
+unity deterministic engine which is processor based causing differences in gameplay between a faster and a slower processor system and hence hardware similarity is preferred.
 
 
